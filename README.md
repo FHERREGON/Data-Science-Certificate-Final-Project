@@ -1,2 +1,2 @@
 # Data-Science-Certificate-Final-Project
-This is my final work for the IBM's Data Science Certificate.  An economic and geographic analysis of Lyon in order to find wich business model is better to invest for in the city.
+This is my final work for the IBM's Data Science Certificate.  An economic and geographic analysis of Lyon in order to find wich business model is better to invest for in the city. You can see the Notebook by clicking in "Proyecto Final IBM", and you can see the economic report in the PDF titled "Informe Capstone", the rest are the data tables I used to develope the analysis.
